@@ -7,7 +7,7 @@ public class main {
         System.out.println("Please enter which octave you want to scan: ");
         Scanner r = new Scanner(System.in);
         int octave = r.nextInt();
-        if(octave < 1 || octave > 255){
+        if(octave < 0 || octave > 255){
             throw new IOException("Octave should be between 0-255");
         }
         int k = 255;

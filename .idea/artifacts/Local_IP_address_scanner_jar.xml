@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Local IP address scanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Local_IP_address_scanner_jar</output-path>
+    <root id="archive" name="Local IP address scanner.jar">
+      <element id="module-output" name="Local IP address scanner" />
+    </root>
+  </artifact>
+</component>
